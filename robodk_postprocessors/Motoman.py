@@ -60,7 +60,7 @@ def get_safe_name(progname, max_chars = 6):
 
 # ----------------------------------------------------
 # Import RoboDK tools
-from robodk import *
+from .robodk import *
 import sys
 
 # ----------------------------------------------------    
